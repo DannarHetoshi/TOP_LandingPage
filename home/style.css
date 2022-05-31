@@ -154,6 +154,7 @@ body {
         border-radius: 16px;
         border-color: #3882f6;
         border: 2px solid;
+        object-fit: cover;
     }
 
     .main_content2 {
